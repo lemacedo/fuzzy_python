@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52677113-44c6-4149-9eda-42b49a9632a0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitigonore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfuzzy/tip.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dep/matplotlib" afterPath="$PROJECT_DIR$/dep/matplotlib" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/import_data.py" afterPath="$PROJECT_DIR$/import_data.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modification.py" afterPath="$PROJECT_DIR$/modification.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,7 +35,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="authenticity.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="authenticity.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skfuzzy/authenticity.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
@@ -45,6 +43,28 @@
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tip.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/skfuzzy/tip.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="514">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controlsystem.py" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/lib/python2.7/dist-packages/skfuzzy/control/controlsystem.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="293" column="8" lean-forward="false" selection-start-line="293" selection-start-column="8" selection-end-line="293" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -95,6 +115,7 @@
         <option value="$PROJECT_DIR$/skfuzzy/inferencia.py" />
         <option value="$PROJECT_DIR$/skfuzzy/food_qualidaty.py" />
         <option value="$PROJECT_DIR$/skfuzzy/authenticity.py" />
+        <option value="$PROJECT_DIR$/skfuzzy/tip.py" />
       </list>
     </option>
   </component>
@@ -698,6 +719,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/skfuzzy/authenticity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="49" lean-forward="true" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/skfuzzy/database.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -706,10 +737,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/skfuzzy/authenticity.py">
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/skfuzzy/control/controlsystem.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="49" lean-forward="true" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+        <state relative-caret-position="163">
+          <caret line="293" column="8" lean-forward="false" selection-start-line="293" selection-start-column="8" selection-end-line="293" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfuzzy/tip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
